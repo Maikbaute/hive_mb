@@ -1,0 +1,116 @@
+
+
+
+h1{
+	background: white;
+	color:black;
+	text-align: center;
+	font-family: Elephant;
+	font-size: 100px;
+	margin: 0;
+	padding:0;
+}
+
+h2{
+	background: white;
+	color:black;
+	text-align: center;
+	font-family: Gill Sans MT;
+	font-size: 15px;
+	letter-spacing: 10px;
+}
+
+h3{
+	background: white;
+	color:black;
+	text-align: left;
+	font-family: Times New Roman;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+
+hr {
+  height: 1px;
+  width: 100%;
+  background-color: #ccc;
+  }
+
+.menu{
+	width: 100%;
+	background: #ccc;
+	list-style:none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: Baskerville Old Face;
+	font-size: 20px;
+	word-spacing: 50px;
+} 
+
+
+.menu li{
+	display:inline-block;
+	
+}  
+
+.menu li a{
+	padding:10px 20px;
+	display:inline-block;
+	color:#000;
+
+}
+
+
+.img{                
+	float: left;
+}
+
+
+.main{
+	width: 300px;
+	height:300px;
+	background: #ccc;
+	font-size:20px;
+	float:left;
+}
+
+.clear{
+	clear:both;
+	text-align: center;
+}
+
+
+#contenido article p{
+	font-family: Times New Roman;
+	font-size: 15px;
+}
+
+
+#contenido article p .fecha1{
+	font-family: Times New Roman;
+	font-size: 15px;
+	text-align: left;	
+}
+
+#contenido article p .fecha2{
+	font-family: Times New Roman;
+	font-size: 15px;
+	text-align: center;	
+}
+
+
+#contenido article .thumb{
+	width: 220px;
+	height: 150px;
+	float:left;
+	margin:0px 10px 10px 10px;
+}
+
+#contenido article h3 .font{
+	font-family: Times New Roman;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold;
+}
+
